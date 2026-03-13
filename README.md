@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![SPORTS_FOOTWEAR_SALES_ANALYSIS](SPORTSFOOTWWEARANALYSIS.png)
+](SPORTSFOOTWWEARANALYSIS.png)
 
 ## 📌 Project Overview
 
