@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-](SPORTSFOOTWWEARANALYSIS.png)
+<img src="SPORTSFOOTWEARANALYSIS.png" width="100%">
 
 ## 📌 Project Overview
 
